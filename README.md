@@ -1,1 +1,3 @@
-# Basic template for simple web pages
+# Password checker
+
+Basic demonstration of how to check the length of a string eg. password.
